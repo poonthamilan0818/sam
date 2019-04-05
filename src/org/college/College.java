@@ -4,6 +4,10 @@ public class College {
 	public void collegeName() {
 		System.out.println("College name:Aksheyaa college of engineering");
 	}
+ public void collegeDetai() {
+System.out.println("chennai");
+
+}
 	public void collegeCode() {
 		System.out.println("College code:4205");
 	}
@@ -19,6 +23,11 @@ public class College {
 		hs.hostelName();
 		Dept dp=new Dept();
 		dp.deptName();
+		clg.collegeDetai();
+		
+		
+
+		
 	}
 
 }
